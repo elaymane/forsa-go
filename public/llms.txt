@@ -1,0 +1,20 @@
+# Forsa Go
+
+> Forsa Go est une plateforme marocaine qui centralise les concours administratifs, offres d'emploi, stages, formations et bourses au Maroc. Les utilisateurs peuvent suivre des opportunités, gérer leurs candidatures et recevoir des rappels avant les échéances importantes.
+
+Forsa Go recense en temps réel les opportunités publiées par les administrations publiques, écoles, et entreprises marocaines (OFPPT, Bank Al-Maghrib, universités, etc.), organisées par ville, type et organisation.
+
+## Pages principales
+
+- [Opportunités](https://www.forsago.ma/opportunities): Liste complète des concours, emplois, stages, formations et bourses disponibles, avec filtres par type, ville, niveau et date limite.
+- [Organisations](https://www.forsago.ma/organizations): Annuaire des organisations marocaines actives sur la plateforme, avec leurs opportunités actuelles.
+- [FAQ](https://www.forsago.ma/faq): Questions fréquentes sur l'utilisation de la plateforme.
+
+## À propos
+
+- [Inscription](https://www.forsago.ma/signup): Créer un compte gratuit pour suivre des opportunités et candidatures.
+- [Connexion](https://www.forsago.ma/login): Accéder à son compte existant.
+
+## Notes
+
+Le contenu des pages d'opportunités individuelles change fréquemment (nouvelles publications, dates limites mises à jour). Le plan du site complet est disponible sur /sitemap.xml.
